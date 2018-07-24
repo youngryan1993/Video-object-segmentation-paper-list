@@ -25,3 +25,14 @@ This page is for organizing the contents of Video Object Segmentation.
   
   - Paper : https://arxiv.org/pdf/1802.01218.pdf
   - Project repository : https://github.com/linjieyangsc/video_seg
+
+  ### Motion-Guided Cascaded Refinement Network for Video Object Segmentation
+  
+  - Paper : http://openaccess.thecvf.com/content_cvpr_2018/CameraReady/0391.pdf
+  
+  ### MoNet: Deep Motion Exploitation for Video Object Segmentation
+  
+  - Paper : http://openaccess.thecvf.com/content_cvpr_2018/papers/Xiao_MoNet_Deep_Motion_CVPR_2018_paper.pdf
+  
+  ### 
+
