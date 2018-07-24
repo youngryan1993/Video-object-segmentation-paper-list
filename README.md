@@ -5,7 +5,6 @@ This page is for organizing the contents of Video Object Segmentation.
 ### One-Shot Video Object Segmentation
 
   - Paper : http://openaccess.thecvf.com/content_cvpr_2017/papers/Caelles_One-Shot_Video_Object_CVPR_2017_paper.pdf
-  
   - Project repository : https://github.com/kmaninis/OSVOS-PyTorch
   
 >CVPR 2018
@@ -25,5 +24,4 @@ This page is for organizing the contents of Video Object Segmentation.
   ### Efficient Video Object Segmentation via Network Modulation
   
   - Paper : https://arxiv.org/pdf/1802.01218.pdf
-  
   - Project repository : https://github.com/linjieyangsc/video_seg
