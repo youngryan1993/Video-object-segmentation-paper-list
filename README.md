@@ -7,12 +7,12 @@ This page is for organizing the contents of Video Object Segmentation.
   - Paper : http://openaccess.thecvf.com/content_cvpr_2017/papers/Caelles_One-Shot_Video_Object_CVPR_2017_paper.pdf
   - Project repository : https://github.com/kmaninis/OSVOS-PyTorch
   
-  1) Adapt the CNN to a particular object instance given a single annotated image.
+  1) Adapt the CNN to a particular object instance given a single annotated image
   2) Segmenting each frame independently
   3) Can work at various points of the trade-off between speed and accuracy
   4) Improve the performance by a significant margin (79.8%)
-  5) Propose two network streams for segmentation and segmentation result refinement.
-  6) Muilt-training step. (e.g., Base Network using pretrained weights, Parent Network using DAVIS dataset, Test Network using the frame 1  )
+  5) Propose two network streams for segmentation and segmentation result refinement
+  6) Muilt-training step. (e.g., Base Network using pretrained weights, Parent Network using DAVIS dataset, Test Network using the frame 1)
   
   
 >CVPR 2018
