@@ -5,7 +5,16 @@ This page is for organizing the contents of Video Object Segmentation.
 ### A Benchmark Dataset and Evaluation Methodology for Video Object Segmentation (DAVIS 2016 dataset)
   - Paper : https://graphics.ethz.ch/~perazzif/davis/files/davis.pdf
   - Project repository : https://github.com/fperazzi/davis-2017 (2016, 2017)
-  1) To evaluate three evaluation metric, one can link the veido segmentation result *.png with the projet file.
+  1) To evaluate three evaluation metric, one can link the veido segmentation result *.png with the project.
+  2) DAVIS challenge evaluation example 
+    [INFO]  Evaluating measure: J
+    [INFO]  Evaluating measure: F
+    [INFO]  Evaluating measure: T
++--------+--------+----------+---------+--------+----------+---------+--------+----------+---------+
+| Method | J_mean | J_recall | J_decay | F_mean | F_recall | F_decay | T_mean | T_recall | T_decay |
++--------+--------+----------+---------+--------+----------+---------+--------+----------+---------+
+|        | 0.082  |  0.004   |  -0.008 | 0.035  |  0.000   |  0.001  | 0.035  |  0.000   |  0.001  |
++--------+--------+----------+---------+--------+----------+---------+--------+----------+---------+
 
 >CVPR 2017
 ### One-Shot Video Object Segmentation (OSVOS)
