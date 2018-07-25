@@ -8,7 +8,8 @@ This page is for organizing the contents of Video Object Segmentation.
   1) To evaluate three evaluation metric, one can link the veido segmentation result *.png with the project.
   2) DAVIS challenge evaluation example 
 
-Input example : 
+Input example :
+
 python eval.py -i ../../../OSVOS-PyTorch/models/Results/ -o result.yaml --year 2016 --single-object --phase val
 
 Evaluation example :
