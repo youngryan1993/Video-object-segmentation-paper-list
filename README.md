@@ -26,7 +26,7 @@ See DAVIS Git repo for detail.
   - Paper : https://arxiv.org/pdf/1708.05137.pdf
   
 >CVPR 2017
-### One-Shot Video Object Segmentation (OSVOS) - R
+### One-Shot Video Object Segmentation (OSVOS)
 
   - Paper : http://openaccess.thecvf.com/content_cvpr_2017/papers/Caelles_One-Shot_Video_Object_CVPR_2017_paper.pdf
   - Project repository : https://github.com/kmaninis/OSVOS-PyTorch
