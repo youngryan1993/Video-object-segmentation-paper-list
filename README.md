@@ -17,6 +17,14 @@ Evaluation example :
 
 See DAVIS Git repo for detail.
 
+>ICCV 2017
+### SegFlow: Joint Learning for Video Object Segmentation and Optical Flow
+  - Paper : https://arxiv.org/pdf/1709.06750.pdf
+  - Project repository : https://github.com/JingchunCheng/SegFlow
+
+### Pixel-Level Matching for Video Object Segmentation using Convolutional Neural Networks
+  - Paper : https://arxiv.org/pdf/1708.05137.pdf
+  
 >CVPR 2017
 ### One-Shot Video Object Segmentation (OSVOS)
 
@@ -29,6 +37,13 @@ See DAVIS Git repo for detail.
   4) Improve the performance by a significant margin (79.8%)
   5) Propose two network streams for segmentation and segmentation result refinement
   6) Muilt-training step. (e.g., Base Network using pretrained weights, Parent Network using DAVIS dataset, Test Network using the frame 1)
+  
+### Online Video Object Segmentation via Convolutional Trident Network
+  - Paper : http://openaccess.thecvf.com/content_cvpr_2017/papers/Jang_Online_Video_Object_CVPR_2017_paper.pdf
+  - Github : https://github.com/wdjang/CTN
+  
+### Learning Video Object Segmentation from Static Images
+  - Paper : https://graphics.ethz.ch/~perazzif/masktrack/files/masktrack.pdf  
   
   
 >CVPR 2018
