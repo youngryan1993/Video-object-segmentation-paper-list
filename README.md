@@ -1,7 +1,7 @@
 # Video-object-segmentation-paper-list
 This page is for organizing the contents of Video Object Segmentation.
 
->CVPR 2017
+>CVPR 2016
 ### A Benchmark Dataset and Evaluation Methodology for Video Object Segmentation (DAVIS 2016 dataset)
   - Paper : https://graphics.ethz.ch/~perazzif/davis/files/davis.pdf
 
