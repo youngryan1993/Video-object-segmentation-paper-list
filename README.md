@@ -7,6 +7,7 @@ This page is for organizing the contents of Video Object Segmentation.
   - Project repository : https://github.com/fperazzi/davis-2017 (2016, 2017)
   1) To evaluate three evaluation metric, one can link the veido segmentation result *.png with the project.
   2) DAVIS challenge evaluation example 
+  
     [INFO]  Evaluating measure: J
     [INFO]  Evaluating measure: F
     [INFO]  Evaluating measure: T
