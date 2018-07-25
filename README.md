@@ -22,8 +22,7 @@ See DAVIS Git repo for detail.
   - Paper : https://arxiv.org/pdf/1709.06750.pdf
   - Project repository : https://github.com/JingchunCheng/SegFlow
   
-  1) Non-casual VOS system (see Figure 2)
-  2) 
+
   
 
 ### Pixel-Level Matching for Video Object Segmentation using Convolutional Neural Networks
@@ -78,4 +77,8 @@ See DAVIS Git repo for detail.
   
   - Paper : http://openaccess.thecvf.com/content_cvpr_2018/papers/Xiao_MoNet_Deep_Motion_CVPR_2018_paper.pdf
   
-
+  1) Non-casual VOS system (see Figure 2)
+  2) Using optical flow for robustness (Flownet 2.0 is used)
+  3) For segmentation, DeepLab is utilized
+  4) Distance Transform layer using FastMBD algorithm 
+  5) MoNet consists of a segmentation stream and an optical flow stream.
