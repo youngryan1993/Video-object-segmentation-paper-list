@@ -40,11 +40,11 @@ See DAVIS Git repo for detail.
   
 ### Online Video Object Segmentation via Convolutional Trident Network
   - Paper : http://openaccess.thecvf.com/content_cvpr_2017/papers/Jang_Online_Video_Object_CVPR_2017_paper.pdf
-  - Github : https://github.com/wdjang/CTN
+  - Project repository : https://github.com/wdjang/CTN
   
 ### Learning Video Object Segmentation from Static Images
   - Paper : https://graphics.ethz.ch/~perazzif/masktrack/files/masktrack.pdf  
-  - Github : https://graphics.ethz.ch/~perazzif/masktrack/index.html
+  - Project repository : https://graphics.ethz.ch/~perazzif/masktrack/index.html
   
   
 >CVPR 2018
