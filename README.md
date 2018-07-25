@@ -15,7 +15,7 @@ python eval.py -i ../../../OSVOS-PyTorch/models/Results/ -o result.yaml --year 2
 Evaluation example :
 ![screenshot from 2018-07-25 21-51-31](https://user-images.githubusercontent.com/41351363/43202009-2c29ceb6-9055-11e8-912b-b53569804a36.png)
 
-see DAVIS Git repo for detail.
+See DAVIS Git repo for detail.
 
 >CVPR 2017
 ### One-Shot Video Object Segmentation (OSVOS)
