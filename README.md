@@ -21,6 +21,10 @@ See DAVIS Git repo for detail.
 ### SegFlow: Joint Learning for Video Object Segmentation and Optical Flow
   - Paper : https://arxiv.org/pdf/1709.06750.pdf
   - Project repository : https://github.com/JingchunCheng/SegFlow
+  
+  1) Non-casual VOS system (see Figure 2)
+  2) 
+  
 
 ### Pixel-Level Matching for Video Object Segmentation using Convolutional Neural Networks
   - Paper : https://arxiv.org/pdf/1708.05137.pdf
