@@ -2,6 +2,10 @@
 This page is for organizing the contents of Video Object Segmentation.
 
 >CVPR 2017
+### A Benchmark Dataset and Evaluation Methodology for Video Object Segmentation (DAVIS 2016 dataset)
+  - Paper : https://graphics.ethz.ch/~perazzif/davis/files/davis.pdf
+
+>CVPR 2017
 ### One-Shot Video Object Segmentation (OSVOS)
 
   - Paper : http://openaccess.thecvf.com/content_cvpr_2017/papers/Caelles_One-Shot_Video_Object_CVPR_2017_paper.pdf
