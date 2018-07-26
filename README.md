@@ -60,6 +60,12 @@ See DAVIS Git repo for detail.
   - Paper : http://www.eecs.harvard.edu/~kalyans/research/videosegmentation/FastVideoSegmentation_CVPR18.pdf
   - Project repository : https://github.com/seoungwugoh/RGMP
   
+  1) Siamese encoder-decoder network for one-shot VOS
+  2) The network works without any online-learning or post-processing
+  3) Using two-stage scheme that pre-trains the network on synthetically generated image data & fine-tunes it on vedio data
+  4) 
+  
+  
   ### Fast and Accurate Online Video Object Segmentation via Tracking Parts
   
   - Paper : http://faculty.ucmerced.edu/mhyang/papers/cvpr2018_video_segmentation.pdf
