@@ -16,8 +16,11 @@ Evaluation example :
 ![screenshot from 2018-07-25 21-51-31](https://user-images.githubusercontent.com/41351363/43202009-2c29ceb6-9055-11e8-912b-b53569804a36.png)
 
 See DAVIS Git repo for detail.
+>BMVC 2107
 
+###
 >ICCV 2017
+
 ### SegFlow: Joint Learning for Video Object Segmentation and Optical Flow
   - Paper : https://arxiv.org/pdf/1709.06750.pdf
   - Project repository : https://github.com/JingchunCheng/SegFlow
@@ -49,7 +52,11 @@ See DAVIS Git repo for detail.
   - Paper : https://graphics.ethz.ch/~perazzif/masktrack/files/masktrack.pdf  
   - Project repository : https://graphics.ethz.ch/~perazzif/masktrack/index.html
   
+### Video Propagation Networks
+  - Paper : https://varunjampani.github.io/papers/jampani17_VPN.pdf
+  - Project repository : https://github.com/varunjampani/video_prop_networks
   
+
 >CVPR 2018
   ### Reinforcement Cutting-Agent Learning for Video Object Segmentation
   
@@ -94,3 +101,10 @@ See DAVIS Git repo for detail.
 
   ### Video Object Segmentation Without Temporal Information (2018, Extended version of OSVOS)
   - Paper : https://arxiv.org/pdf/1709.06031.pdf
+
+>arXiv
+
+  ### Lucid Data Dreaming
+  - Paper : https://arxiv.org/pdf/1703.09554.pdf
+  - Project repository : https://github.com/ankhoreva/LucidDataDreaming
+
