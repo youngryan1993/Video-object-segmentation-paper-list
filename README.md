@@ -82,3 +82,9 @@ See DAVIS Git repo for detail.
   3) For segmentation, DeepLab is utilized
   4) Distance Transform layer using FastMBD algorithm 
   5) MoNet consists of a segmentation stream and an optical flow stream.
+
+
+>TPAMI
+
+  ### Video Object Segmentation Without Temporal Information (2018, Extended version of OSVOS)
+  - Paper : https://arxiv.org/pdf/1709.06031.pdf
