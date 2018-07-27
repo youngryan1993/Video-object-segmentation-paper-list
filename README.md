@@ -16,6 +16,15 @@ Evaluation example :
 ![screenshot from 2018-07-25 21-51-31](https://user-images.githubusercontent.com/41351363/43202009-2c29ceb6-9055-11e8-912b-b53569804a36.png)
 
 See DAVIS Git repo for detail.
+
+
+### Video segmentation via object flow (OFL)
+  - Paper : http://files.is.tue.mpg.de/black/papers/TsaiCVPR2016.pdf
+  - Project repository : https://github.com/wasidennis/ObjectFlow
+
+
+
+
 >BMVC 2017
 
 ### Online Adaptation of Convolutional Neural Networks for Video Object Segmentation
@@ -58,7 +67,7 @@ See DAVIS Git repo for detail.
   - Paper : https://graphics.ethz.ch/~perazzif/masktrack/files/masktrack.pdf  
   - Project repository : https://graphics.ethz.ch/~perazzif/masktrack/index.html
   
-### Video Propagation Networks
+### Video Propagation Networks (VPN)
   - Paper : https://varunjampani.github.io/papers/jampani17_VPN.pdf
   - Project repository : https://github.com/varunjampani/video_prop_networks
   
@@ -71,7 +80,7 @@ See DAVIS Git repo for detail.
   
   - Paper : http://openaccess.thecvf.com/content_cvpr_2018/papers/Han_Reinforcement_Cutting-Agent_Learning_CVPR_2018_paper.pdf
   
-  ### Fast Video Object Segmentation by Reference-Guided Mask Propagation  
+  ### Fast Video Object Segmentation by Reference-Guided Mask Propagation (RGMP)
   
   - Paper : http://www.eecs.harvard.edu/~kalyans/research/videosegmentation/FastVideoSegmentation_CVPR18.pdf
   - Project repository : https://github.com/seoungwugoh/RGMP
