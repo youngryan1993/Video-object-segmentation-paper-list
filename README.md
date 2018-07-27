@@ -60,9 +60,10 @@ See DAVIS Git repo for detail.
   - Paper : https://varunjampani.github.io/papers/jampani17_VPN.pdf
   - Project repository : https://github.com/varunjampani/video_prop_networks
   
+  1) Using bilateral filter networks 
 
 >CVPR 2018
-  ### Reinforcement Cutting-Agent Learning for Video Object Segmentation
+  ### Reinfor0cement Cutting-Agent Learning for Video Object Segmentation
   
   - Paper : http://openaccess.thecvf.com/content_cvpr_2018/papers/Han_Reinforcement_Cutting-Agent_Learning_CVPR_2018_paper.pdf
   
