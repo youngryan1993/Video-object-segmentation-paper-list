@@ -74,7 +74,9 @@ See DAVIS Git repo for detail.
   1) Siamese encoder-decoder network for one-shot VOS
   2) The network works without any online-learning or post-processing
   3) Using two-stage scheme that pre-trains the network on synthetically generated image data & fine-tunes it on vedio data
-  4) 
+  4) In fune-tuning step, they exploit BPTT (i.e., RNN structure) 
+  5) Training time is so long (totally 5 days)
+  
   
   
   ### Fast and Accurate Online Video Object Segmentation via Tracking Parts
