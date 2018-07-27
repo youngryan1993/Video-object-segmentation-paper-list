@@ -29,6 +29,8 @@ See DAVIS Git repo for detail.
   - Paper : https://arxiv.org/pdf/1709.06750.pdf
   - Project repository : https://github.com/JingchunCheng/SegFlow
   
+  1) Using FlowNet for temporal information and FCN for segmentation in bidirectional way.
+  2) 
 
   
 
