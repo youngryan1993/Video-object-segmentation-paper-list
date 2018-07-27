@@ -61,6 +61,8 @@ See DAVIS Git repo for detail.
   - Project repository : https://github.com/varunjampani/video_prop_networks
   
   1) Using bilateral filter networks 
+  2) Online propagation : The method need no future frame (real-time, casual)
+ 
 
 >CVPR 2018
   ### Reinfor0cement Cutting-Agent Learning for Video Object Segmentation
