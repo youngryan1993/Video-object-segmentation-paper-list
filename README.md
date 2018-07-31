@@ -39,7 +39,7 @@ See DAVIS Git repo for detail.
   - Project repository : https://github.com/JingchunCheng/SegFlow
   
   1) Using FlowNet for temporal information and FCN for segmentation in bidirectional way.
-  2) 
+  2) Iterative training scheme
 
   
 
