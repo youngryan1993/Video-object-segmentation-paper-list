@@ -106,6 +106,9 @@ See DAVIS Git repo for detail.
   
   - Paper : http://openaccess.thecvf.com/content_cvpr_2018/CameraReady/0391.pdf
   
+  1) Optical flow-based  + Active contour (Level-set) + CRN
+  2)                                                                                                                                                                   
+  
   ### MoNet: Deep Motion Exploitation for Video Object Segmentation
   
   - Paper : http://openaccess.thecvf.com/content_cvpr_2018/papers/Xiao_MoNet_Deep_Motion_CVPR_2018_paper.pdf
