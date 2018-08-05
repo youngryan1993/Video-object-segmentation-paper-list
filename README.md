@@ -67,6 +67,13 @@ See DAVIS Git repo for detail.
   - Paper : https://graphics.ethz.ch/~perazzif/masktrack/files/masktrack.pdf  
   - Project repository : https://graphics.ethz.ch/~perazzif/masktrack/index.html
   
+  1) MaskTrack : use only one segmentation network (Deeplabv2-VGG16)
+  2) Training time : Input -> RGB + synthesize training mask (video whole frames are not required)
+     [Offline] affine transformations and non-rigid deformations are used for augmentation ~ 10^4
+     [Online] Using first frame with ground turth is exploited ~ 10^3
+  3) Test time : Input -> RGB + t-1 segmentation mask
+  4) Optical flow and CRF are optionally used
+  
 ### Video Propagation Networks (VPN)
   - Paper : https://varunjampani.github.io/papers/jampani17_VPN.pdf
   - Project repository : https://github.com/varunjampani/video_prop_networks
