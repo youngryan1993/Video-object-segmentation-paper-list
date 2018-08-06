@@ -1,6 +1,11 @@
 # Video-object-segmentation-paper-list
 This page is for organizing the contents of Video Object Segmentation.
 
+
+>ICCV 2015
+### Fully connected object proposals for video segmentation
+  1) Graph-based object segmentation algorithm.
+
 >CVPR 2016
 ### A Benchmark Dataset and Evaluation Methodology for Video Object Segmentation (DAVIS 2016 dataset)
   - Paper : https://graphics.ethz.ch/~perazzif/davis/files/davis.pdf
@@ -22,6 +27,7 @@ See DAVIS Git repo for detail.
   - Paper : http://files.is.tue.mpg.de/black/papers/TsaiCVPR2016.pdf
   - Project repository : https://github.com/wasidennis/ObjectFlow
 
+### Bilateral space video segmentation
 
 
 
@@ -45,6 +51,11 @@ See DAVIS Git repo for detail.
 
 ### Pixel-Level Matching for Video Object Segmentation using Convolutional Neural Networks
   - Paper : https://arxiv.org/pdf/1708.05137.pdf
+  
+  1) Using two stream network (i.e., Search and Query)
+  2) Network consists of three parts: encoding, pixel-level similarity FC layer and decoding.
+  3) Compressers are used for memory efficiency. 
+  
   
 >CVPR 2017
 ### One-Shot Video Object Segmentation (OSVOS)
