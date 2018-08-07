@@ -74,6 +74,9 @@ See DAVIS Git repo for detail.
   - Paper : http://openaccess.thecvf.com/content_cvpr_2017/papers/Jang_Online_Video_Object_CVPR_2017_paper.pdf
   - Project repository : https://github.com/wdjang/CTN
   
+  1) Trident Network : separative(sgementation) / definite foreground / definite background
+  2) Encoder - Deconder structure : 1-encoder stream / 3(tri)-decoder stream
+  
 ### Learning Video Object Segmentation from Static Images
   - Paper : https://graphics.ethz.ch/~perazzif/masktrack/files/masktrack.pdf  
   - Project repository : https://graphics.ethz.ch/~perazzif/masktrack/index.html
