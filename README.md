@@ -77,7 +77,7 @@ See DAVIS Git repo for detail.
   1) Trident Network : separative(sgementation) / definite foreground / definite background
   2) Encoder - Deconder structure : 1-encoder stream / 3(tri)-decoder stream
   
-### Learning Video Object Segmentation from Static Images
+### Learning Video Object Segmentation from Static Images (MaskTrack)
   - Paper : https://graphics.ethz.ch/~perazzif/masktrack/files/masktrack.pdf  
   - Project repository : https://graphics.ethz.ch/~perazzif/masktrack/index.html
   
@@ -122,13 +122,18 @@ See DAVIS Git repo for detail.
   
   - Paper : https://arxiv.org/pdf/1802.01218.pdf
   - Project repository : https://github.com/linjieyangsc/video_seg
+  
+  1) Motivated by conditional batch normalization
+  2) y = r
+  3) Feature maps are modulated by visual / spatial modulator
+  4) Visual modulator : [input] first frame image [output] the
 
   ### Motion-Guided Cascaded Refinement Network for Video Object Segmentation
   
   - Paper : http://openaccess.thecvf.com/content_cvpr_2018/CameraReady/0391.pdf
   
   1) Optical flow-based  + Active contour (Level-set) + CRN
-  2)                                                                                                                                                                   
+                                                                                                                                                                     
   
   ### MoNet: Deep Motion Exploitation for Video Object Segmentation
   
