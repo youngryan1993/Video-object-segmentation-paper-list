@@ -95,6 +95,9 @@ See DAVIS Git repo for detail.
   1) Using bilateral filter networks 
   2) Online propagation : The method need no future frame (real-time, casual)
  
+ ### Learning to segment instance in videos with spatial propagation network (Workshop Paper)
+   - Paper : https://davischallenge.org/challenge2017/papers/DAVIS-Challenge-6th-Team.pdf
+   - Project repository : https://github.com/JingchunCheng/Seg-with-SPN
 
 >CVPR 2018
   ### Reinforcement Cutting-Agent Learning for Video Object Segmentation
