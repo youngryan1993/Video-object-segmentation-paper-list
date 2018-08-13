@@ -97,7 +97,7 @@ See DAVIS Git repo for detail.
  
 
 >CVPR 2018
-  ### Reinfor0cement Cutting-Agent Learning for Video Object Segmentation
+  ### Reinforcement Cutting-Agent Learning for Video Object Segmentation
   
   - Paper : http://openaccess.thecvf.com/content_cvpr_2018/papers/Han_Reinforcement_Cutting-Agent_Learning_CVPR_2018_paper.pdf
   
