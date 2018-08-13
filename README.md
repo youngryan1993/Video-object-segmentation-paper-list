@@ -126,7 +126,8 @@ See DAVIS Git repo for detail.
   1) Motivated by conditional batch normalization
   2) y = r
   3) Feature maps are modulated by visual / spatial modulator
-  4) Visual modulator : [input] first frame image [output] the
+  4) Visual modulator : [input] first frame image [output] scale parameters
+     Spatial modulator : [input] t-1 frame image [output] bias parameters
 
   ### Motion-Guided Cascaded Refinement Network for Video Object Segmentation
   
