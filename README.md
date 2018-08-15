@@ -120,6 +120,9 @@ See DAVIS Git repo for detail.
   ### Fast and Accurate Online Video Object Segmentation via Tracking Parts
   
   - Paper : http://faculty.ucmerced.edu/mhyang/papers/cvpr2018_video_segmentation.pdf
+  
+  1) Part-based tracker + ROI SegNet + Similarity based part Aggregation
+  2)
 
   ### Efficient Video Object Segmentation via Network Modulation
   
@@ -127,7 +130,7 @@ See DAVIS Git repo for detail.
   - Project repository : https://github.com/linjieyangsc/video_seg
   
   1) Motivated by conditional batch normalization
-  2) y = r
+  2) y = rx + b
   3) Feature maps are modulated by visual / spatial modulator
   4) Visual modulator : [input] first frame image [output] scale parameters
      Spatial modulator : [input] t-1 frame image [output] bias parameters
